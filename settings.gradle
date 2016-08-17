@@ -1,0 +1,6 @@
+/** ****************************************************************************
+ Copyright 2016 Ellucian Company L.P. and its affiliates.
+ *******************************************************************************/
+include 'grails_demo_plugin'
+
+project(":grails_demo_plugin").projectDir =  new File("plugins/grails_demo_plugin")
